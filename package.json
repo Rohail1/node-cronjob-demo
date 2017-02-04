@@ -1,0 +1,22 @@
+{
+  "name": "cronjob-nodejs",
+  "version": "1.0.0",
+  "description": "A Simple Demo of creating cronjob in node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "node-cron",
+    "cronjob"
+  ],
+  "author": "Rohail Najam <rohail_najam@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.2.1",
+    "express": "^4.14.1",
+    "morgan": "^1.7.0"
+  }
+}
