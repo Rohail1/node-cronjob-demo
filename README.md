@@ -6,7 +6,7 @@ This is a demo project for creating cronJobs in nodejs.
 running the following command
 
     > npm install
-    > npm server.js
+    > node server.js
 
 
 # For Any Queries
